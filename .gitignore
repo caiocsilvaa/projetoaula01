@@ -1,6 +1,11 @@
+#Isso é um cometário, há!
+
+# Ignorando arquivos por exxtensão
 *.doc
 *.docx
 *.zip
 
-
+# Ignorando diretórios (ou pastas) por nome
 testes/
+
+# Ignorando arquivos específicos
